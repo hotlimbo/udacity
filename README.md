@@ -1,2 +1,4 @@
 # udacity
-Project files fro Udacity courses
+Project files for Udacity courses
+
+Whatever
